@@ -1,2 +1,0 @@
-I've added the filw to git on Nitrus.
-Now its in a new branch.
