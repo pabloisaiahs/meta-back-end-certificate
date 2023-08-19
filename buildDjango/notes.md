@@ -19,7 +19,7 @@ Django-admin & manage.py commands
 ## App Structures
 A Django project is a web application that may consist of one or more sub-modules called apps
 - An app performs one single task out of the many involved
-- **python -m django startapp myapp** default dest in cwd
+- **python manage.py startapp myapp** default dest in cwd
 - **views** receive requests and return a response by giving the user something
   - Uses HTTP request and response
 - add to **views.py**, don't modify it
