@@ -1,0 +1,11 @@
+# Project and Apps
+- Creating your first project
+  - Each project needs its own environment by using virtual development environments.
+  - Workflow:
+    - Create project directory -> Create Virtual environment -> Create Django project -> Run development server
+  - *mkrdir whatever* then *cd* into it
+  - *python -m venv anyname-env* then *source anyname-env/bin/activate* to set it as the environment
+  - install Django by *pip3 install django*
+  - to make a project do *django-admin startproject projectName*
+    - **manage.py** is a command line utility that works like the **django-admin** command
+  - to make the server do *python manage.py runserver*
