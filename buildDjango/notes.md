@@ -50,6 +50,8 @@ Allow for fast development, clean structure, change and modification, and code r
   - The view is the presentation layer of the application
     - Takes care of the placement and formatting of the result and sends it to the controller which redirects it to the client as a response
 - **MVT Architecture** (Model, View, and Template)
+- ![image](https://github.com/pabloisaiahs/meta-back-end-certificate/assets/85268281/fa247d6c-b6b5-4875-90ff-3f2cfb47ec34)
+
   - Similar to MVC, the data layer contains the model and the view undertakes processing logic
     ![image](https://github.com/pabloisaiahs/meta-back-end-certificate/assets/85268281/07b01417-f394-4969-b482-5c4bae2fef1d)
     - A django application consists of the following components:
