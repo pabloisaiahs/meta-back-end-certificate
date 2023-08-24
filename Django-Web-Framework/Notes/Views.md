@@ -25,7 +25,11 @@
 - **Models** are equivalent of a database in Djando
 - View fetches objects from the model such as a datable table mapped with the model, or the request parameter is used to add a new instance of the model by inserting a new row in the table.
 - Client uses **HTTP GET** to provide data from the model or delete an instance
+- View loads the template web page, inserts certain context data at the placeholder marked with tags, and returns it as the response
   - **GET** and **POST** methods (in views)
+    - You want to let the end user know about the result
+- **Request** is requesting information from the server via code, **Response** is returning  to the server
+### C
 
 ## Requests and URLs
 -
